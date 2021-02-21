@@ -1,0 +1,38 @@
+:root {
+  --dark-blue: #363f5f;
+  --green: #49AA26;
+  --light-green: #3dd705;
+  --red: #e92929;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 93.75%; /* 15px */
+}
+
+body {
+  background: #f0f2f5;
+  font-family:'Poppins', sans-serif
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.container {
+  width: min(90vw, 1000px);
+  margin: auto;
+}

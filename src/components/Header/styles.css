@@ -1,0 +1,19 @@
+header {
+  background: #2D4A22;
+  padding: 2rem 0 10rem;
+  text-align: center;
+}
+header p {
+  color: #fff;
+}
+
+#content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2rem 0 2rem;
+}
+
+#content button {
+  cursor: pointer;
+}
