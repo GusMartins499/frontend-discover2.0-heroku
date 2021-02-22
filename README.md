@@ -39,9 +39,7 @@
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-layout">Layout</a> • 
- <a href="#-como-executar-o-projeto">Como executar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -62,7 +60,6 @@ mundo em torno de novas tecnologias.
 - [x] Cadastro de conta:
   - [x] seu nome
   - [x] seu e-mail
-  - [x] e o endereço para que ele possa aparecer no mapa
   - [x] pesquisa por lançamento
   - [x] saldo total de lançamentos
   - [x] saldo total de despesas
